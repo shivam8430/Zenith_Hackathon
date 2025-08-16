@@ -8,3 +8,5 @@ Smart recommendations for natural remedies based on user input
 Out of numerous innovative solutions, we were honored to be selected among the Top 5 Finalists! 🌟
 This experience not only pushed our boundaries in AI and geolocation technologies but also highlighted the power of tech in promoting traditional, sustainable healthcare.
 A big thanks to the organizers, mentors, and fellow participants who made this event unforgettable!
+
+
